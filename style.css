@@ -1,3 +1,21 @@
-* {
-    border: 2px solid red;
+:root {
+  --clr-primary-400: #1f2937;
+  --clr-primary-100: #f9faf8;
+
+  --clr-accent-300: #e5e7eb;
+  --clr-accent-200: #3882f6;
+
+  --ff-primary: sans-serif;
+
+  --ff-heading: var(--ff-primary);
+  --ff-body: var(--ff-primary);
+
+  --fw-regular: 300;
+  --fw-extra-bold: 900;
+  --fw-italic: italic;
+
+  --fs-100: 18px;
+  --fs-300: 24px;
+  --fs-500: 36px;
+  --fs-700: 48px;
 }
